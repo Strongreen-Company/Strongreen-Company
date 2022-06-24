@@ -1,4 +1,4 @@
-# Nosso porquê!
+# 🎯 Nosso porquê!
 
 ## Qual o objetivo do Discord?
 
@@ -7,25 +7,19 @@
 - Porque a finalidade dessa comunidade é ajudar na formação de profissionais com senso de comunidade, consciência de acessibilidade, segurança e Softskills.
 - Foco da comunidade não é só desenvolver o técnico, mas muito, além disso, formar pessoas melhores.
 
-## Valores:
-- Honestidade;
-- Sinceridade;
-- Transparência;
-- Confiança;
-- Humildade;
-- Determinação;
-
-## Visão:
-
-Ser uma comunidade que confia na capacidade das pessoas e esteja sempre determinada a levar conteúdo de valor para o maior número de makers de forma honesta e transparente. 
-Sendo sempre sinceros com o nosso time e humildes o suficiente para aprendermos com nossos erros.
+| ## Valores:         |    Visão:                                               |   Missão:                                   |
+:--------- | :------: | :-------:
+| - Honestidade;      | Ser uma comunidade que confia  na capacidade das        |   Nós tornar a maior comunidade do discord  | 
+| - Sinceridade;      | pessoas e esteja sempre determinada a levar             |   de tecnologia do Brasil e ajudar makers   | 
+| - Transparência;    | conteúdo de valor para o maior número de makers         |   a encontrar um trabalho que os faça       |
+| - Confiança;        | de forma honesta e transparente. Sendo sempre sinceros  |   se sentir feliz e realizados.             |
+| - Humildade;        | com o nosso time e humildes o suficiente para           |                                             |
+| - Determinação;     | aprendermos com nossos erros.                           |                                             |
 
 
-## Missão:
 
-Nós tornar a maior comunidade do discord de tecnologia do Brasil e ajudar makers a encontrar um trabalho que os faça se sentir feliz e realizados.
 
-## Como vai funcionar?
+## 🧑‍💼 Como vai funcionar?
 
 Além dos conteúdos abordados nas outras redes os Makers também vão poder interagir com relação aos temas semanais dentro do server e interagir nos canais sobre temas específicos
 
@@ -41,7 +35,7 @@ Além dos conteúdos abordados nas outras redes os Makers também vão poder int
 - Agenda semanal de conteúdos
 - Conversação de Inglês
 
-## Cargos e responsabilidades
+## 🦸Cargos e responsabilidades
 
 GRÜNDER:
 
