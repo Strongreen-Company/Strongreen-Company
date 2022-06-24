@@ -1,0 +1,2 @@
+# Strongreen-Company
+Quem somos?
